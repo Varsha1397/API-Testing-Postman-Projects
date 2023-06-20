@@ -6,4 +6,5 @@ URL of the Project
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 Newman Report
-[Newman Summary Report.pdf](https://github.com/Varsha1397/API-Testing-Postman-Projects/files/11806483/Newman.Summary.Report.pdf)
+[Newman Summary Report 11.pdf](https://github.com/Varsha1397/API-Testing-Postman-Projects/files/11806799/Newman.Summary.Report.11.pdf)
+
